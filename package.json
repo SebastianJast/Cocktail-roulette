@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/SebastianJast/Cocktail-roulette#readme",
   "dependencies": {
+    "axios": "^1.7.9",
     "ejs": "^3.1.10",
     "express": "^4.21.2"
   }
