@@ -53,6 +53,8 @@ div {
 p {
   color: bisque;
   font-size: 20px;
+  text-align: center;
+  width: 500px;
 }
 
 ul {
